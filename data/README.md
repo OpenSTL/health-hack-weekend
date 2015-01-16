@@ -1,4 +1,4 @@
-Selection of health-related data.
+Selection of health-related data.  **This is only some of the available data.**   Additional resources can be found on the [wiki for this event](https://github.com/OpenDataSTL/health-hack-weekend/wiki).  You can also add data requests to the [data request page of the wiki](https://github.com/OpenDataSTL/health-hack-weekend/wiki/Data-Requests) and we'll do our best to help you find the information you need! 
 
 Notes:
 

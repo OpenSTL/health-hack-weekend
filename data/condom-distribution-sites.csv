@@ -1,14 +1,14 @@
-SITE,ZIP CODE,POPULATION,FREQUENCY,DISTRIBUTION TYPE,AGENCY
+SITE,ZIP CODE,POPULATION,FREQUENCY,DISTRIBUTION TYPE,AGENCY, Address, Lat, Long
 """The Midtown Stroll""",63103,AA MSM,Monthly,Outreach,All
 """The MLK Stroll""",63113,General,Monthly,Outreach,All
-3644 Natural Bridge Ave,63107,General,Daily,Drop Off,All
-Forest Park/Wells Drive,63110,AA MSM,Monthly,Outreach,All
-12 & Park Rec Ctr,63104,"AA HRHM, MSM",Quarterly,Distribution,DOH
+3644 Natural Bridge Ave,63107,General,Daily,Drop Off,All, 3644 Natural Bridge Ave, 38.661643, -90.218340
+Forest Park/Wells Drive,63110,AA MSM,Monthly,Outreach,All, Wells Drive, 38.633054, -90.286409
+12 & Park Rec Ctr,63104,"AA HRHM, MSM",Quarterly,Distribution,DOH, 1410 South Tucker Boulevard, St. Louis, MO 63104, 38.614231, -90.204326
 314 GALZ PASSION PARTY,63123,MCSC CLUB,Annually,Drop Off,DOH
-Casa De Salud,63104,"Latino 900+, HRH, MSM",Quarterly,Distribution,DOH
-Clayton Barber Shop,63115,"AA HRHM, MSM",Monthly,Drop Off,DOH
-Club St. Louis,63103,"W 900+, MSM",Monthly,Outreach,DOH
-Community Alternatives,63110,"900+, Mental Health",Quarterly,Drop Off,DOH
+Casa De Salud,63104,"Latino 900+, HRH, MSM",Quarterly,Distribution,DOH, 3200 Chouteau Avenue, St. Louis, MO 63103, 38.624377, -90.230243
+Clayton's Barber Shop,63115,"AA HRHM, MSM",Monthly,Drop Off,DOH, 4163 North Newstead Avenue St. Louis, MO 63115, 38.675048, -90.232913
+Club St. Louis,63103,"W 900+, MSM",Monthly,Outreach,DOH, 2625 Samuel Shepard Dr. St. Louis MO 63103, 38.636362, -90.213952
+Community Alternatives,63110,"900+, Mental Health",Quarterly,Drop Off,DOH, 4130 Lindell Boulevard St. Louis, MO 63108, 
 Cooper House,63110,900+,Quarterly,Distribution,DOH
 DHSS (Eastern Dist DIS),63103,"900+, HRH, MSM",Quarterly,Distribution,DOH
 DOH School Health,63103,Youth General,Quarterly,Drop Off,DOH

@@ -1,0 +1,19 @@
+FIELD, DESCRIPTION
+CHILD_NAME, child name
+DCN, child unique ID
+ADDRESS, child address
+GENDER, child gender
+AGE, child age
+SEX, child sex
+RACE, child race
+TEST_DATE, test date	
+TEST_MONTH, test month
+TEST_YEAR, test year
+TEST_RESULT, blood lead level (deciliters)
+BLL_CATEGORY, blood lead level category
+SAMPLE_TYPE, type of test (capillary or veinous)
+PROVIDER, test provider	
+ZCTA, zip code tabulation area
+WARD, ward number
+NHD_NUM, neighborhood number
+NHD, neighborhood name	
